@@ -1,0 +1,22 @@
+{
+  "name": "advanta-report-app",
+  "version": "1.0.0",
+  "description": "Aplikasi pelaporan untuk Advanta",
+  "private": true,
+  "source": "./src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "dependencies": {
+    "firebase": "^9.22.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "author": "",
+  "license": "ISC"
+}
