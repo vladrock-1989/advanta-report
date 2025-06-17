@@ -7,7 +7,7 @@
   "source": "./src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build --public-url ./",
+    "build": "parcel build --public-url /advanta-report/",
     "predeploy": "npm run build",
 "deploy": "gh-pages -d dist"
   },
